@@ -73,27 +73,29 @@ const Contact = () => {
 
   const handleSubmitForm = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!isVerified) {
-      await handleSendOTP();
-      return;
-    } else {
-      setIsLoading(true);
-      axios
-        .post("https://formspree.io/f/mlevdrdj", { name, email, message })
-        .then(
-          (res) => {
-            form?.current?.reset();
-            toast.success(
-              "Message sent successfully. I will get back to you soon. Thanks."
-            );
-          },
-          (error) => {
-            console.log(error);
-            toast.error("Something went wrong");
-          }
-        );
-      setIsLoading(false);
-    }
+    // if (!isVerified) {
+    //   await handleSendOTP();
+    //   return;
+    // } else {
+    setIsLoading(true);
+    axios
+      .post("https://formspree.io/f/mlevdrdj", { name, email, message })
+      .then(
+        (res) => {
+          form?.current?.reset();
+          toast.success(
+            "Message sent successfully. I will get back to you soon. Thanks."
+          );
+          setIsLoading(false);
+        },
+        (error) => {
+          console.log(error);
+          toast.error("Something went wrong");
+          setIsLoading(false);
+        }
+      );
+
+    // }
   };
 
   return (
