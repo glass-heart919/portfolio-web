@@ -139,7 +139,7 @@ export const content = {
     project_content: [
       {
         title: "Snippool",
-        image: "/assets/images/projects/snippool.webp",
+        image: "/assets/images/Projects/snippool.webp",
         link: "https://www.snippool.xyz/Collections",
         description:
           "Snippool is an NFT AMM inspired by Sudoswap where users can create pools, buy and sell NFTs, add pools to vaults to get rewards.",
@@ -148,7 +148,7 @@ export const content = {
       },
       {
         title: "NFT Launchpad",
-        image: "/assets/images/projects/smr_launchpad.webp",
+        image: "/assets/images/Projects/smr_launchpad.webp",
         link: "https://launchpad.iotaevm.snippool.xyz/",
         description:
           "NFT Collection launchapd on IOTA EVM network where users can easily launch NFT collections with custom settings like royalty, affiliate, bulk discount, etc.",
@@ -157,7 +157,7 @@ export const content = {
       },
       {
         title: "Octopus Bridge",
-        image: "/assets/images/projects/octopus.webp",
+        image: "/assets/images/Projects/octopus.webp",
         link: "https://octopusbridge.xyz/",
         description:
           "Octopus Bridge is an application where users can bridge assets between Ethereum and other EVM compatible chains, Bitcoin and Bitcoin L2 networks.",
@@ -166,7 +166,7 @@ export const content = {
       },
       {
         title: "Gydedao",
-        image: "/assets/images/projects/gyde.webp",
+        image: "/assets/images/Projects/gyde.webp",
         link: "https://gydedao.netlify.app/",
         description:
           "Gydedao is an NFT-gated website that provides users with helpful information about their lives. They offer resources on topics such as investments, savings, insurance, planning for retirement, taxes, and more. They provide resources from experienced professionals who can assist in guiding users through their financial decisions. The website also offers up-to-date news and insights from the financial world.",
@@ -175,7 +175,7 @@ export const content = {
       },
       {
         title: "XDX Exchange",
-        image: "/assets/images/projects/xdx.webp",
+        image: "/assets/images/Projects/xdx.webp",
         link: "https://xdx-frontend.vercel.app/",
         description:
           "XDX is a decentralized exchange deployed on Avalanche with low swap fees and no price impact. It engages a liquidity shared mechanism called XDX to faciliate trades. XDX is the utility and governance token of the protocol.",
@@ -184,7 +184,7 @@ export const content = {
       },
       {
         title: "NFTb",
-        image: "/assets/images/projects/nftb.webp",
+        image: "/assets/images/Projects/nftb.webp",
         link: "https://nftb.io/",
         description:
           "NFTb is an NFT marketplace running on Binance Smart Chain. It provides services such as listing, sales and auction of NFTs. It also has DeFi as a service which empowers users to earn passively and support projects with customized staking and farming services. On the other hand, NFT and token launchpad is also part of the platform to help projects and creators launch in a fair way.",
@@ -192,7 +192,7 @@ export const content = {
       },
       {
         title: "Kupad Finance",
-        image: "/assets/images/projects/kupad.webp",
+        image: "/assets/images/Projects/kupad.webp",
         link: "https://ku-pad.netlify.app",
         description:
           "KUPAD is a protocol built on Kucoin blockchain with the sole aim of helping projects raise capital in a decentralized way, an easy approach for both investors and project to either invest or raise funds.",
@@ -200,14 +200,14 @@ export const content = {
       },
       {
         title: "Rubber Duck Bath Party",
-        image: "/assets/images/projects/rubber_duck.webp",
+        image: "/assets/images/Projects/rubber_duck.webp",
         link: "https://duck.art/",
         description: "NFT collection of 10, 000 ducks on Ethereum network.",
         techstack: "Solidity, Hardhat",
       },
       {
         title: "ABA Engine",
-        image: "/assets/images/projects/abaengine.webp",
+        image: "/assets/images/Projects/abaengine.webp",
         link: "https://schedule.abaengine.com/",
         description:
           "ABA Engine is a platform for clients to book services of providers depending on each other's availability, authorization, insurance provider, location and other criteria. It has seamless client intake and provider onboarding process.",
@@ -216,7 +216,7 @@ export const content = {
       },
       {
         title: "Cibolo",
-        image: "/assets/images/projects/cibolo.webp",
+        image: "/assets/images/Projects/cibolo.webp",
         link: "https://ciboloai.com/",
         description:
           "A web based platform that is designed to help financial firms and advisors enhance portfolio management experience specifically in the alternative investment industry.",
@@ -225,7 +225,7 @@ export const content = {
       },
       {
         title: "Car Parts Service Platform",
-        image: "/assets/images/projects/carparts.webp",
+        image: "/assets/images/Projects/carparts.webp",
         link: "https://www.carparts.com/",
         description:
           "CarParts is an online automotive parts store that offers a wide selection of automotive parts, accessories, and tools for cars, trucks, and SUVs. Customers can easily find what they need by searching through the available categories, or by using the search bar to find the right part for their vehicle. The website is easy to navigate, and provides detailed product descriptions and images to help customers make an informed purchase. It also offers customer support, detailed shipping information, and special offers and discounts.",
@@ -234,7 +234,7 @@ export const content = {
       },
       // {
       //   title: "Gyapu E-commerce",
-      //   image: "/assets/images/projects/gyapu.webp",
+      //   image: "/assets/images/Projects/gyapu.webp",
       //   link: "https://www.gyapu.com/",
       //   description:
       //     "Gyapu is an online marketplace that provides small businesses with a platform to sell their products. You can find a wide range of products from different categories, such as clothing, home appliances, electronics, books, sports items, and more. Gyapu also offers competitive prices and discounts, making it a great option for bargain hunters. It provides secure payment options and fast delivery, so you can get your purchases quickly.",
@@ -243,7 +243,7 @@ export const content = {
       // },
       {
         title: "Wedding Band Promotion & Reservation",
-        image: "/assets/images/projects/redsoda.webp",
+        image: "/assets/images/Projects/redsoda.webp",
         link: "https://redsoda.com/",
         description:
           "Redsoda is a website for wedding music band. Customers can visit the website and easily book their performance played by various types of band with harmony of several musical instruments in various parts of the world.",
@@ -251,7 +251,7 @@ export const content = {
       },
       {
         title: "Insurance Service Platform",
-        image: "/assets/images/projects/veronicas.webp",
+        image: "/assets/images/Projects/veronicas.webp",
         link: "https://veronicasquote.com/",
         description:
           "Application where user get insurance quotes by choosing their insurance category and add required data. It provides various insurance services for automobiles, health, life, home, etc.",
@@ -261,7 +261,7 @@ export const content = {
     archieved: [
       {
         title: "Openwaters",
-        image: "/assets/images/projects/openwaters.webp",
+        image: "/assets/images/Projects/openwaters.webp",
         link: "https://openwaters.uk/",
         description:
           "Openwaters is an NFT marketplace on CoreDAO blockchain that supports native token and custom WOOF token to offer, list, buy NFTs",
@@ -270,7 +270,7 @@ export const content = {
       },
       {
         title: "Rooster Wars",
-        image: "/assets/images/projects/rooster.webp",
+        image: "/assets/images/Projects/rooster.webp",
         link: "https://www.roosterwars.io/",
         description:
           "Rooster Wars is a web3 game with a vision of having fun and rewarding experience. Its mechanics is based on traditional rock paper scissors which makes it one of the comprehensible P2E games in the market",
