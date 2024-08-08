@@ -18,7 +18,7 @@ const generateOtp = () => {
 const sendOTP = async (email: string, name: string, otp: string) => {
   console.log(process.env.USER, process.env.PASS);
   const transporter = nodemailer.createTransport({
-    host: "smtp.office365.com",
+    host: "smtp-mail.outlook.com",
     service: "Outlook365",
     port: 587,
     secure: false,
