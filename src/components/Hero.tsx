@@ -1,5 +1,5 @@
-// import content
 import { content } from "@/content";
+
 const Hero = () => {
   const { hero } = content;
   return (

@@ -46,7 +46,7 @@ export const content = {
   hero: {
     title: "Senior Full Stack Engineer",
     firstName: "LUCAS",
-    // LastName: "W",
+    LastName: "Wong",
     btnText: "Hire Me",
     image: "/assets/images/Hero/person.webp",
     hero_content: [

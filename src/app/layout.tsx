@@ -1,8 +1,26 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inria_Serif, Paprika, Poppins } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const poppins = Poppins({
+  weight: "400",
+  subsets: ["latin"],
+  variable: "--font-poppins",
+});
+
+const inria_serif = Inria_Serif({
+  weight: "700",
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-inria-serif",
+});
+
+const paprika = Paprika({
+  weight: "400",
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-paprika",
+});
 
 export const metadata: Metadata = {
   title: "Portfolio - Lucas",
@@ -16,10 +34,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>
-        {children}
-      </body>
+    <html
+      lang="en"
+      className={`${poppins.variable} ${paprika.variable} ${inria_serif.variable}`}
+    >
+      <body>{children}</body>
     </html>
   );
 }

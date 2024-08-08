@@ -9,6 +9,7 @@ import Projects from "@/components/Projects";
 import Testimonials from "@/components/Testimonials";
 import Hireme from "@/components/Hireme";
 import Contact from "@/components/Contact";
+import "aos/dist/aos.css";
 
 export default function Home() {
   const date = new Date();
