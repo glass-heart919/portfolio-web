@@ -26,6 +26,22 @@ export const metadata: Metadata = {
   title: "Portfolio - Lucas",
   description:
     "Hi, Lucas here. I am a professional full stack engineer and a passionate learner.",
+  applicationName: "Portfolio - Lucas Wong",
+  authors: { name: "Lucas Wong", url: "https://lucasw.net" },
+  alternates: { canonical: "https://lucasw.vercel.app/" },
+  keywords: [
+    "Lucas Wong",
+    "Lucas",
+    "Portfolio",
+    "Full Stack",
+    "Frontend",
+    "Developer",
+    "Engineer",
+    "Dev",
+    "Blockchain",
+    "web3",
+    "smart contract",
+  ],
 };
 
 export default function RootLayout({
