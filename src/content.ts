@@ -346,11 +346,11 @@ export const content = {
       //   icon: MdCall,
       //   link: "tel:+1 231 821 5145",
       // },
-      // {
-      //   text: "+1 231 821 5145",
-      //   icon: FaWhatsapp,
-      //   link: "https://wa.me/12318215145",
-      // },
+      {
+        text: "+1 231 821 5145",
+        icon: FaWhatsapp,
+        link: "https://wa.me/12318215145",
+      },
       {
         text: "@clox1118",
         icon: FaTelegram,
