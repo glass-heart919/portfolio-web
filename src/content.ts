@@ -45,17 +45,17 @@ export const content = {
   ],
   hero: {
     title: "Senior Full Stack Engineer",
-    firstName: "LUCAS",
-    LastName: "Wong",
+    firstName: "Andrew",
+    LastName: "Thomas",
     btnText: "Hire Me",
-    image: "/assets/images/Hero/person.webp",
+    image: "/assets/images/Hero/StockCake-Coding Coffee Break_1748580567(1).png",
     hero_content: [
       {
-        count: "8+",
+        count: "7+",
         text: "Years of Experience in Web development",
       },
       {
-        count: "30+",
+        count: "20+",
         text: "Projects Worked in my career",
       },
     ],
@@ -284,7 +284,7 @@ export const content = {
     testimonials_content: [
       {
         review:
-          "“Lucas has been a great partner throughout the course of our build of our MVP. He was ready to dive right in and learned the NEAR SDK with little guidance, implementing complex features and on schedule within budget. His can do attitude is wonderful and he is very responsive to communications. Would definitely recommend working with him in the future!”",
+          "Andrew has been a great partner throughout the course of our build of our MVP. He was ready to dive right in and learned the NEAR SDK with little guidance, implementing complex features and on schedule within budget. His can do attitude is wonderful and he is very responsive to communications. Would definitely recommend working with him in the future!”",
         img: "/assets/images/Testimonials/max.webp",
         name: "Max Goodman",
         position: "Founder & Chief at Gyde",
@@ -292,7 +292,7 @@ export const content = {
       },
       {
         review:
-          "“I had the pleasure of working with Lucas on a company website project, where he served as the sole developer. The website was built using React, and Lucas played a crucial role in its development and maintenance from start to finish. \n\nThroughout the project, Lucas demonstrated a strong understanding of web technologies and was able to effectively integrate 3rd party services via their API's. He showed excellent problem-solving skills and was a true team player, consistently displaying a strong work ethic and willingness to take on any challenge. \nI was very impressed with Lucas's skills and dedication to the project, and I look forward to our ongoing work together. He is a valuable asset to any team, and I highly recommend him for any Web development work.”",
+          "“I had the pleasure of working with Andrew on a company website project, where he served as the sole developer. The website was built using React, and Andrew played a crucial role in its development and maintenance from start to finish. \n\nThroughout the project, Andrew demonstrated a strong understanding of web technologies and was able to effectively integrate 3rd party services via their API's. He showed excellent problem-solving skills and was a true team player, consistently displaying a strong work ethic and willingness to take on any challenge. \nI was very impressed with Andrew's skills and dedication to the project, and I look forward to our ongoing work together. He is a valuable asset to any team, and I highly recommend him for any Web development work.”",
         img: "/assets/images/Testimonials/ben.webp",
         name: "Ben Blair",
         position: "Director at TraderDeepDive",
@@ -300,7 +300,7 @@ export const content = {
       },
       {
         review:
-          "“Lucas is an experienced developer I really enjoyed working with. While we were working together to explore DeFi stacks, Lucas has demonstrated great problem solving skills and fast execution to navigate both solution domain and tech domain through building working prototypes. I am very impressed his hands-on and system thinking. His high performing work has enabled us to make practical decision quicker as a product engineering team. Whether you are working web2 or web3 for your startup, Lucas is an amazing developer talent and rising tech lead I would like to recommend for any startup team.”",
+          "Andrew is an experienced developer I really enjoyed working with. While we were working together to explore DeFi stacks, Andrew has demonstrated great problem solving skills and fast execution to navigate both solution domain and tech domain through building working prototypes. I am very impressed his hands-on and system thinking. His high performing work has enabled us to make practical decision quicker as a product engineering team. Whether you are working web2 or web3 for your startup, Andrew is an amazing developer talent and rising tech lead I would like to recommend for any startup team.”",
         img: "/assets/images/Testimonials/hui.webp",
         name: "Hui Huang",
         position: "Entrepreneur & Startup CTO at Skyline Dev Labs",
@@ -308,7 +308,7 @@ export const content = {
       },
       {
         review:
-          "“I've enjoyed working with Lucas on a web3 project. He is a true expert in the field of web3 integration and blockchain technology. His deep knowledge and expertise have been crutial in our project's success. He has an excellent ability to understand complex blockchain concepts and turn them into practical solutions. One of Lucas's best qualities is his proficiency in developing subgraphs. His work in this area has significantly improved our project's data indexing and querying capabilities. I highly recommend Lucas to anyone seeking a skilled and knowledgeable developer in web3 integration, blockchain, and subgraph development.”",
+          "“I've enjoyed working with Andrew on a web3 project. He is a true expert in the field of web3 integration and blockchain technology. His deep knowledge and expertise have been crutial in our project's success. He has an excellent ability to understand complex blockchain concepts and turn them into practical solutions. One of Andrew's best qualities is his proficiency in developing subgraphs. His work in this area has significantly improved our project's data indexing and querying capabilities. I highly recommend Andrew to anyone seeking a skilled and knowledgeable developer in web3 integration, blockchain, and subgraph development.”",
         img: "/assets/images/Testimonials/boston.webp",
         name: "Boston TCHOUKOUA",
         position: "Head Of Development at IotaOrigin UG",
@@ -327,19 +327,19 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "lucas.wong.1118@gmail.com",
+        text: "heroandrew110@gmail.com",
         icon: GrMail,
-        link: "mailto:lucas.wong.1118@gmail.com",
+        link: "mailto:heroandrew110@gmail.com",
       },
       // {
       //   text: "Linkedin",
       //   icon: BsLinkedin,
-      //   link: "https://www.linkedin.com/in/lucas-wong-70b153235",
+      //   link: "https://www.linkedin.com/in/Andrew-Thomas-70b153235",
       // },
       {
-        text: "LucasWongC",
+        text: "AndrewThomas",
         icon: FaGithub,
-        link: "https://github.com/LucasWongC",
+        link: "https://github.com/glass-heart919",
       },
       // {
       //   text: "+1 231 821 5145",
@@ -352,9 +352,9 @@ export const content = {
         link: "https://wa.me/12318215145",
       },
       {
-        text: "@clox1118",
+        text: "@GlassHeart0919",
         icon: FaTelegram,
-        link: "https://t.me/clox1118",
+        link: "https://t.me/GlassHeart0919",
       },
       // {
       //   text: "live:.cid.382c6bd556a26d6b",
