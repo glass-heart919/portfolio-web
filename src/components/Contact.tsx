@@ -79,7 +79,7 @@ const Contact = () => {
     // } else {
     setIsLoading(true);
     axios
-      .post("https://formspree.io/f/mlevdrdj", { name, email, message })
+      .post("https://formspree.io/f/mgvyevzj", { name, email, message })
       .then(
         (res) => {
           form?.current?.reset();
