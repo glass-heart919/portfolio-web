@@ -51,7 +51,7 @@ export const content = {
     image: "/assets/images/Hero/StockCake-Coding Coffee Break_1748580567(1).png",
     hero_content: [
       {
-        count: "7+",
+        count: "6+",
         text: "Years of Experience in Web development",
       },
       {
@@ -327,9 +327,9 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "heroandrew110@gmail.com",
+        text: "whiteiceberg1120@gmail.com",
         icon: GrMail,
-        link: "mailto:heroandrew110@gmail.com",
+        link: "mailto:whiteiceberg1120@gmail.com",
       },
       // {
       //   text: "Linkedin",
