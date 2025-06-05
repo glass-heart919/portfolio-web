@@ -45,13 +45,13 @@ export const content = {
   ],
   hero: {
     title: "Senior Full Stack Engineer",
-    firstName: "Andrew",
-    LastName: "Thomas",
+    firstName: "Nicholas",
+    LastName: "Hearne",
     btnText: "Hire Me",
     image: "/assets/images/Hero/StockCake-Coding Coffee Break_1748580567(1).png",
     hero_content: [
       {
-        count: "6+",
+        count: "7+",
         text: "Years of Experience in Web development",
       },
       {
@@ -109,11 +109,11 @@ export const content = {
         para: "Web3 integration",
         logo: "/assets/images/Skills/web3.webp",
       },
-      {
-        name: "Figma",
-        para: "UI/UX",
-        logo: "/assets/images/Skills/figma.webp",
-      },
+      // {
+      //   name: "Figma",
+      //   para: "UI/UX",
+      //   logo: "/assets/images/Skills/figma.webp",
+      // },
     ],
     icon: MdArrowForward,
   },
@@ -123,7 +123,7 @@ export const content = {
     service_content: [
       {
         title: "Web Development",
-        para: "As a web developer, my goal is to design and build websites that are visually appealing, user-friendly, and fully functional. I specialize in both the front-end and back-end aspects of web development, which means I have expertise in both the design and technical aspects of building a website. I have a strong understanding of web design principles and am skilled at creating responsive and mobile-friendly websites that work well on a variety of devices.",
+        para: "As a web developer, my goal is to build websites that are visually appealing, user-friendly, and fully functional. I specialize in both the front-end and back-end aspects of web development, which means I have expertise in both the design and technical aspects of building a website. I have a strong understanding of web design principles and am skilled at creating responsive and mobile-friendly websites that work well on a variety of devices.",
         logo: "/assets/images/Services/web.webp",
       },
       {

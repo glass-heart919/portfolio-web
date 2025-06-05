@@ -112,7 +112,7 @@ const Contact = () => {
         <div className="flex gap-10 md:flex-row flex-col">
           <form
             ref={form}
-            action="https://formspree.io/f/mlevdrdj"
+            action="https://formspree.io/f/mgvyevzj"
             method="POST"
             onSubmit={handleSubmitForm}
             data-aos="fade-up"
