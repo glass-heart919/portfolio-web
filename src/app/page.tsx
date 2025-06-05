@@ -32,7 +32,7 @@ export default function Home() {
       <Hireme />
       <Contact />
       <footer className="p-3 text-center">
-        <h6 className="mb-3">Made with ❤ by Andrew</h6>
+        <h6 className="mb-3">Made with ❤ by Nicholas</h6>
         <p>© All Copyrights Reserved {year}</p>
       </footer>
     </div>

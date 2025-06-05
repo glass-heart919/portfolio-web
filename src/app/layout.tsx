@@ -23,15 +23,15 @@ const paprika = Paprika({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio - Andrew",
+  title: "Portfolio - Nicholas",
   description:
-    "Hi, Andrew here. I am a professional full stack engineer and a passionate learner.",
-  applicationName: "Portfolio - Andrew Thomas",
-  authors: { name: "Andrew Thomas", url: "https://Ajeetw.net" },
+    "Hi, Nicholas here. I am a professional full stack engineer and a passionate learner.",
+  applicationName: "Portfolio - Nicholas Hearne",
+  authors: { name: "Nicholas Hearne", url: "https://Ajeetw.net" },
   alternates: { canonical: "https://Ajeetw.vercel.app/" },
   keywords: [
-    "Andrew Thomas",
-    "Andrew",
+    "Nicholas Hearne",
+    "Nicholas",
     "Portfolio",
     "Full Stack",
     "Frontend",
